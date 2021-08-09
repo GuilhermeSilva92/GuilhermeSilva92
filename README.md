@@ -7,7 +7,7 @@
 
 
 <div>
-<img height="100px" url="https://github-readme-stats.vercel.app/api?username=guilhermeb-silva" alt=""/>
+<img height="100px" url="https://github-readme-stats.vercel.app/api?username=guilhermeb-silva&show_icons=true&theme=dracula&include_all_commits=true" alt=""/>
 
 
 </div>
