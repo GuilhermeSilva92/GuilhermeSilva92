@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @GuilhermeSilva92
+<h1 align="center">E ae, belezaa ? 👋 </h1>
+<h1 align="center">Eu sou o Guilherme e seja muito bem-vindo ao meu Github </h1>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,12 +9,13 @@
 
 
 <div>
-<img height="100px" url="https://github-readme-stats.vercel.app/api?username=guilhermeb-silva&show_icons=true&theme=dracula&include_all_commits=true" alt=""/>
-
-
+   <a href="https://github.com/guilhermeb-silva/github-readme-stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=guilhermeb-silva&show_icons=true&theme=merko&include_all_commits=true" alt=""/>
+  </a>
+  <a href="https://github.com/guilhermeb-silva/convoychat">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeb-silva&layout=compact&theme=merko" alt=""/>
+  </a>
+ 
 </div>
 
-<!---
-GuilhermeSilva92/GuilhermeSilva92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
