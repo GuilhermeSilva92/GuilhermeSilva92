@@ -1,3 +1,5 @@
+<img src="https://github.com/GuilhermeSilva92/GuilhermeSilva92/blob/main/github.png" />
+
 <h1 align="center">E ae, belezaa ? 👋 </h1>
 <h1 align="center">Eu sou o Guilherme e seja muito bem-vindo ao meu Github </h1>
 
